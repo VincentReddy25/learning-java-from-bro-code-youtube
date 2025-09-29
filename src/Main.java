@@ -2,9 +2,6 @@
 // click the <icon src="AllIcons.Actions.Execute"/> icon in the gutter.
 public class Main {
     public static void main(String[] args) {
-       String emailAddress = "vincentreddy25@gmail.com";
-
-
-       System.out.println(emailAddress.substring(5, 10));
+        System.out.println("Happy Learning!");
     }
 }
