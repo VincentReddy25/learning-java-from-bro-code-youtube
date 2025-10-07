@@ -4,4 +4,5 @@
 ### Project-2: Weight Conversion Program
 ### Project-3: Temperature Convertor
 ### Project-4: Random Guessing Game
-### Project-5: Banking Program
+### Project-5: Banking Program 
+### Project-6: Rock Paper Scissors Game
